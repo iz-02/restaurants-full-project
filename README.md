@@ -35,7 +35,7 @@ The main code for cleaning and preparing the data is in the notebook:
 ### Tableau Dashboard
 Here’s the visual representation of insights from the cleaned data:
 
-![Tableau Dashboard](Screenshot (83).png)
+![Tableau Dashboard](Screenshot_(83).png)
 
 ### Sample of Cleaned Data
 A preview of the cleaned dataset:
