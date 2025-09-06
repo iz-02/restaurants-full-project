@@ -38,6 +38,6 @@ Here’s the visual representation of insights from the cleaned data:
 ![Tableau Dashboard](Screenshot_(83).png)
 
 ### Sample of Cleaned Data
-A preview of the cleaned dataset:
+A sample of the cleaned dataset:
 
 ![Sample Data](data_head().png)
