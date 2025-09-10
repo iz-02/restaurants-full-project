@@ -28,7 +28,7 @@ The main code for cleaning and preparing the data is in the notebook:
 > - Currency conversions
 > - Extracting specific ratings  
 
----
+
 
 ## 📊 Results
 
