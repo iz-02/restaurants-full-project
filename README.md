@@ -1,7 +1,7 @@
 # 🍽️ Zomato Data Cleaning & Tableau Visualization
 
 ## Overview
-This project takes a Zomato dataset and shows the work process:
+Taking a Zomato dataset and processing the data:
 
 1. Importing and cleaning the dataset in Python (pandas).  
 2. Exporting the cleaned dataset to CSV.  
@@ -37,6 +37,5 @@ The main code for cleaning and preparing the data is in the notebook:
 ![Tableau Dashboard](Screenshot_(83).png)
 
 ### Sample of Cleaned Data
-A sample of the cleaned dataset:
 
 ![Sample Data](data_head().png)
